@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git-repos\\AzureBinaryImages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|d:\\git-repos\\azurebinaryimages\\azurebinaryimages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|solutionrelative:azurebinaryimages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|d:\\git-repos\\azurebinaryimages\\azurebinaryimages\\services\\imageanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|solutionrelative:azurebinaryimages\\services\\imageanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|d:\\git-repos\\azurebinaryimages\\azurebinaryimages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|solutionrelative:azurebinaryimages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|d:\\git-repos\\azurebinaryimages\\azurebinaryimages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|solutionrelative:azurebinaryimages\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|d:\\git-repos\\azurebinaryimages\\azurebinaryimages\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F83D022-EEBA-44F2-BBD4-DD791B1A3B5F}|AzureBinaryImages\\AzureBinaryImages.csproj|solutionrelative:azurebinaryimages\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\appsettings.json",
+              "RelativeDocumentMoniker": "AzureBinaryImages\\appsettings.json",
+              "ToolTip": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\appsettings.json",
+              "RelativeToolTip": "AzureBinaryImages\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T17:59:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageAnalysisService.cs",
+              "DocumentMoniker": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Services\\ImageAnalysisService.cs",
+              "RelativeDocumentMoniker": "AzureBinaryImages\\Services\\ImageAnalysisService.cs",
+              "ToolTip": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Services\\ImageAnalysisService.cs",
+              "RelativeToolTip": "AzureBinaryImages\\Services\\ImageAnalysisService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:27:11.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Program.cs",
+              "RelativeDocumentMoniker": "AzureBinaryImages\\Program.cs",
+              "ToolTip": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Program.cs",
+              "RelativeToolTip": "AzureBinaryImages\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:14:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureBinaryImages\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AzureBinaryImages\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T17:10:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AzureBinaryImages\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\git-repos\\AzureBinaryImages\\AzureBinaryImages\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AzureBinaryImages\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:07:03.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

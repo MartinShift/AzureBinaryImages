@@ -1,0 +1,43 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Upload</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <h2>Upload Image</h2>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="file" required />
+        <input type="submit" value="Upload" />
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        $(document).ready(function () {
+            $("#uploadForm").submit(function (event) {
+                event.preventDefault(); // Prevent the form from submitting via the browser.
+                var formData = new FormData($(this)[0]);
+
+                $.ajax({
+                    url: '/upload',
+                    type: 'POST',
+                    data: formData,
+                    contentType: false, // Necessity for FormData
+                    processData: false, // Necessity for FormData
+                    success: function (data) {
+                        $("#result").html("Upload successful!<br/>Image Analysis: " + JSON.stringify(data));
+                    },
+                    error: function () {
+                        $("#result").html("There was an error uploading the image.");
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
